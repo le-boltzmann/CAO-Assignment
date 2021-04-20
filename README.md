@@ -1,5 +1,7 @@
-# CAO-Assignment
+# web_master
+It is my personal website.
+HTML defines the content of every web page on the Internet. By “marking up” your raw content with HTML tags, you’re able to tell web browsers how you want different parts of your content to be displayed. Creating an HTML document with properly marked up content is the first step of developing a web page.
 
-# Task 2 Output 
+![webpage](images/html.png)
 
-![image](https://user-images.githubusercontent.com/57444711/115448664-6109dc00-a233-11eb-977f-615f3cb09aba.png)
+
